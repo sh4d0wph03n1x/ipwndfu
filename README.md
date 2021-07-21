@@ -1,6 +1,7 @@
 ![](repo/ipwndfu.png)
 # Open-source jailbreaking tool for many iOS devices
 
+## I am attempting to port this to M1, but it may end up being a complete rewrite, I don't know yet.
 
 **Read [disclaimer](#disclaimer) before using this software.*
 
